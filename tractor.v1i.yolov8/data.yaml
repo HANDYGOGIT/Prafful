@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['Tratores - v5 YOLO V8L  2024-11-13']
+
+roboflow:
+  workspace: tractor-zgrss
+  project: tractor-vsb0t
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/tractor-zgrss/tractor-vsb0t/dataset/1

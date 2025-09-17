@@ -1,0 +1,5 @@
+train: D:\yolo-V8-main\tractor.v1i.yolov8\train
+val: D:\yolo-V8-main\tractor.v1i.yolov8\test
+
+nc: 1
+names: ['Tractor']
